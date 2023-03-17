@@ -1,4 +1,4 @@
-I am following along with a detailed video to create an advanced game
+I am following along with a detailed video to create an advanced game using primarily Javascript.
 
 [You can build this game too!](https://www.youtube.com/watch?v=GFO_txvwK_c&t=119s)
 
